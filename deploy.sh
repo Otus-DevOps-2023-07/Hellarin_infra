@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #Script for installation app
 
 #download 

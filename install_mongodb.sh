@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #Script for installation mongodb
 
 #install mongodb
