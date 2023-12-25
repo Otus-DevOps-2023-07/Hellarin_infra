@@ -1,6 +1,8 @@
 {
     "folder_id": "<folder_id>",
-    "service_account_key_file": "./packer/key.json.example",
     "source_image_family": "ubuntu-1604-lts",
-    "ssh_username": "ubuntu"
+    "service_account_key_file": "key.json.example",
+    "zone": "<zone>",
+    "subnet": "<subnet>",
+    "use_ipv4_nat": "true"
 }
